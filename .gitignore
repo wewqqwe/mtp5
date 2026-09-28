@@ -3,4 +3,5 @@ __pycache__/
 .venv/
 .pytest_cache/
 *.db
+clicker_best.txt
 .mypy_cache/
